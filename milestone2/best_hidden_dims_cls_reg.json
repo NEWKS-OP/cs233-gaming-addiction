@@ -1,0 +1,17 @@
+{
+  "best_classification": {
+    "hidden_dims": [
+      64,
+      32
+    ],
+    "val_acc": 85.9375,
+    "val_f1": 0.7763021274194459
+  },
+  "best_regression": {
+    "hidden_dims": [
+      8,
+      8
+    ],
+    "val_mse": 0.9652836682323678
+  }
+}
